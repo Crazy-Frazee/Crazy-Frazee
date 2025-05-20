@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 Analytical and creative problem-solver with experience in programming, software architecture/development, laboratory and UAT testing, who is passionate about writing elegant code. Adaptable and driven, with strong work ethic and ability to thrive in team-based or individually-motivated settings.
 <!--
 **Crazy-Frazee/Crazy-Frazee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
